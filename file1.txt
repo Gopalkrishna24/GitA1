@@ -1,0 +1,11 @@
+You are requested to execute following task : 
+1. Install Git on AWS ubuntu.
+2. Create a directory with name “My Project”.
+3. Initialize “My Project” directory as an empty git repository.
+4. Place your eclipse project into this Git Repository.
+5. Create a .gitignore file and configure it for excluding these 
+files(*.class, *.settings, *.project)
+6. Add the source code into Staging Area.
+7. Commit the source code into Local git repository.
+8. Create a Remote repository on GitHub.
+9. Push the source code from Local repository to Remote Repository.
